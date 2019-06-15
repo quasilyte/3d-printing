@@ -2,28 +2,35 @@
 
 Go programming language related models.
 
+Gophers, mostly.
+
+All models printed with `Wanhao Duplicator i3 Mini`.
+
 ## Gopher head
 
-Size: small, `4.0cm X 2.0cm X 2.0cm`.
-
-Parts:
+Model parts:
 * [Eye x2](https://drive.google.com/file/d/1UUwAPYxwcrL8w3Q1-QqPS6OizysDTTcJ/view)
 * [Body x1](https://drive.google.com/file/d/1s2fa_Gacmux-4AD63N-I0JKKuHqtww9g/view)
 
-Printed with:
-* Wanhao Duplicator i3 Mini, PLA. ~60 mins per object in total.
+Size: small, `4.0cm X 2.0cm X 2.0cm`.<br>
+Time: 80 mins.
 
 <img src="https://lh3.googleusercontent.com/d9oDx6B5sTVk_WoOfy8jJbfOf53yBFBL8BhY0lxUp2GOGRNd3DchqzKDgzOSICa5XiwDgzuYgTonzGLM7opYb33zgWarEY6lwiKKluKSuaXQACPZu_kLdZA3es_XDDDX2ztaA66PCGN5MAbCAVH8H4ipOKWMumLvMqSwVF3MNX2HSru4qvHu0jL3ZfIxqYxxxbQBHTY93V0GcYFXOJiYeAiM7gdMIDi6QqlB_S6EGsKNZ7lw6gSXQrzmGU7Nx9D6pKk1nYNL5zr6ObQl5gAtUm00OQsfdoYPyHWEYauHiPOQ3ltpgGBk6ZIW2gn71ImxPADDVfuqAho0A7wnVOntoTeqG293t29enloVXimcHdEoGlVYdN2Mnm6Kw25kbV_0P1SYUaeLu4xvh1j3SpFKMJPsWAvrOZUjIbsC1YBVs1GSYiuvjvd29-ONkLF3aMYEONJlmhSI0cftiRZrZJ2U9cDd_DXvk1hP0LJxM9ERZwhT5dtVT-x-LJv7ju1AC8MTKLVlSTwX1mCczBVg05gsCJiVVvx9X5SfQnaKo1szoaFBiEZUQSWkuoFrZheVGvEsfdm90fCAJ2J6QkYhlBPasQoOLwzB53Ey2asRQiZMxFLFK3cOZhsr3vYf0MhjOMn0DEfoQdAc3zgq6nEDRalUzH86qSUYk4c=w800-h599-no" width="30%" height="30%"><img src="https://lh3.googleusercontent.com/O2qdDhKCbR2qSdMGGsiGxzcroLSIg8ZRyRA9fYdotd3r09cAM-ECYobYJZHAklrhQcVhfb0h-LmKKDsDGcP-a6ZC4m_H37u2U-U6xREcMYtnso3394ZUEjPfXC7dJxqeXmui6ojNleSEVfmT_g3ow-6HmbdSwiciyA6Ev2ilngWYKUiPnS6qK7XiNu5XLjf0HZMBonQlH7yAAgDP9ooEGLBLfq1fvfz1w6GUDVMA1ee7huTA7eV7pcirc3GPMaDks2Hw7sIHAvet4fIpse7wbYoxKgtiOXvZffQBjZ5_Lg2L5b1iYC-WW1Zy71UcJJKnroKSPfpQdAVY8UK_fCNNgjS42Ve9Ms0179dRkI-fnAk8APnxAQrK3Jd6JyjZhE9_YyT5Nc3yd4rovoBowicqjCoIpho2xeHuCINAGSwUIY3Ck0lF5g6_OCfkEdEehX2ejpBG8FIz87LxNdPUrfzA-xLT1FVYhmKZpoP8OvFEimqiQNOMElxYAMOByIocuC8V1_MAHiLQyr7gHYphgd7YkozXOHcFaANi85HQCLgDIGejBYd9ukrzMoWQnQH_edgtEP8mQQ3WvV9fBEkbOpPwZh5JG3IiVq4aKO3hdfTRLntbTOyx6c9eOdFdxGgLgMebSl4B8-TPmnl6o_EYsrJkHgGhiWmCrHI=w800-h599-no" width="30%" height="30%"><img src="https://lh3.googleusercontent.com/jtAeaQtnR5Wx-hiChL9GNIQbKsxBxQbhBRbcCaUaesA_NtuAZfqOp39DewkJ1hUk21ByVlYSyRTKWkW3sCDeuc05_kDgjEjmc9Wv0xZ4xUGPlJXS5JRYSsMJHEulNhlmA3eBxC_qXdqx-wfJ7fJnN7zA0vYiwqFjrSnjqJ0E4oKu2e0FMVlcmKZUwNxuLzwT1KZC0tqfzKWFpzqL9NmaWqXwApSB5OyvB1JskIB04uobR5w_B4vPSfd84RbQM4t5snxyG-DR8vgPdKdkBcHvpz9giT2p2h0mnSgTJpWc34FjhWbRq-RkHHrGVxK_1rFKgGoYiTSsQv8zQPGpWj0RH_r3U6iBJ0XueeO7hVdt6n9vpnA4cZ_UsaprNlGWReBnj7RMohXJ9rNycezsoVIZs6f3voZrzsgIvpRCymtvAHET-BKJo3IJIL5Lba4Ud9iOoJOqBDui6PQ_faVHA_eQS4ylTRrUVeLglybnF2BsckQ-K3yoNEDOEJO6dHcx_hpVCewfbbe-3L1zhKeMRmkrKYQNqRPNPy8h2QuZx-ifdfRzjzzU9YkxBMh-mjAFIawZkPtFoqeDpd_Az2bkGkWBJosj09gXq0xmqOiBy76rGVzfuROUPI15OXBGuS99OR6LPwtmcdP-yAOpgHvL3ClEukzceEXycZ0=w800-h599-no" width="30%" height="30%">
 
 ## Flat gopher head - keychain
 
-Sizes: small, `3.6cm X 0.3cm X 3.0cm`.
+Model: [single part](https://drive.google.com/file/d/1sHCJ-sdkhBull_AWiU942nEPJ2tyelhW/view).
+
+Size: small, `3.6cm X 0.3cm X 3.0cm`.<br>
+Time: 40 mins.
 
 ## Flat gopher - keychain
 
-Size: small, `2.8cm X 0.5cm X 4.8cm`.
+
+
+Model: [single part](https://drive.google.com/file/d/1gcJh-sQtv6-kw41O6RQ6n-f-wxJHdshO/view).
+
+Size: small, `2.8cm X 0.5cm X 4.8cm`.<br>
+Time: 50 mins.
 
 <img src="https://lh3.googleusercontent.com/V8pwuxRc8w1SOfLBNk4wQ7vcI4pCOWIAkRyQ7bJ_ALI42kc-jeVTKt4T3Hg4Rq-aPfXdxS-sDNR6k7JaTBnCDYDr0mN-9Jy8TKi-aIy8z7FUEzAuKIutpm44-N2wdaP9qHHMr6jxs6WaA7eCuRXWsrfnOPPiadx23VfyIsNEl0RXPFzk1DEUQsdJvXMWNQokm-1H8LBMGh0Bs03MnT_Whe1zWjUP3K4RUJMFTFL-bGiW_VSBxuqlHRcIhPJiW6SCf9o5PyWSgza_fjvUq03YrNLQ9TSlqqZxvySkhm2BBH8KYQ9H1vaDx19fheIGih65-fH4vGYx1Q2QaT8PAH4_nsQFqqoFvrDDg_J6V-f5i_Md_Knhe02t4mTVKBpmMgiDNFI-lWBWQ__-zA9VgYvJLb66u7xJzOBC2lqv0gjpY_yMBL53ezKLM9cukB32oOBhDlfqCXcWvMoIyBrgf58_qet9KUu_XdOwFqu5M6QTUudHMK-zDHWALeeGl6iB73EfsKijmpejH4l0i5lc6799LbABLuskZbsVrNM9uprXmG180pkdyQ6Q5m_6tCwjb3qfkbweiOXynDU_qPKCb8nhcS2bhdACgupFVEOsMv5ue3hqnqTwnXn1LzEuBGFc5Li41fR2ajsmyWtmUlKVMJ6ytzGlMonmYSM=w800-h599-no" width="30%" height="30%"><img src="https://lh3.googleusercontent.com/1eR4zv6awMqq_Z4GEjI8_2Cte87lWrQ1B3Qp5ii3-HYzW0pq7UV0SjR9f6Y55f1iYLiGn1eWfbsttBzSRFtJMtfFUndYR1L5q9woJWZw9eqjIMvy6OcHnJqFvN7OafDU6yrGusjhJ_HN90SFpZdshbVGiKZOIqWDiH9EB4W7NFXaKFhiHRO7gCGGoql6pXIOuanheDm8T-VwSnMepeIsGrthK6IjrCzNaYbLGiWP7Gw3EpCQW2bffGLzP8jqYfkPBHAGr3CqRD8cFthBGlq0HVXFZLtNnBLOW2LVwsfWDPJcbBB-YbZYoVLKZISZrEQClLrz4WYLIngJxIgWNiY_E-6kLX8fJqC54cHGVB_DGJNOk_qFWm4ARVOE8Usl48FXv5FFk9CUZq5dHksxZr5D4lxuOqxbkZSmeErbKqshPXrfc7ou44YoRipwbU55joh_Wpj1O6ZmX4oVY7ENnNhTKpEiTbm86fahcj64kI3fewTokLSE9qUUA5Jf2AvPJR6Cov4h6MqibNCRkWFOp3GdCjhFmvtVLISdKNex9d8RPKRpXB9yj3AnbsaQtpNG2zZiF328u0CYlXcRSRCICW5a1YQV8u-X3zVTOQTCF6wbvRccspnCdiiMT1TldzcIR7pvnGTiwDqu6fWj-VzrZDF_gCXag7CRVyI=w800-h599-no" width="30%" height="30%">
-
-Printed with:
-* Wanhao Duplicator i3 Mini, PLA. ~50 mins per object in total.
