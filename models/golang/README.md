@@ -9,8 +9,8 @@ All models printed with `Wanhao Duplicator i3 Mini`.
 ## Gopher head
 
 Model parts:
-* [Eye x2](https://drive.google.com/file/d/1UUwAPYxwcrL8w3Q1-QqPS6OizysDTTcJ/view)
-* [Body x1](https://drive.google.com/file/d/1s2fa_Gacmux-4AD63N-I0JKKuHqtww9g/view)
+* [Eye](https://drive.google.com/file/d/1UUwAPYxwcrL8w3Q1-QqPS6OizysDTTcJ/view) x2
+* [Body](https://drive.google.com/file/d/1s2fa_Gacmux-4AD63N-I0JKKuHqtww9g/view) x1
 
 Size: small, `4.0cm X 2.0cm X 2.0cm`.<br>
 Time: 80 mins.
